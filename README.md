@@ -1,2 +1,2 @@
 # Javascript Algorithms
-Solving Algorithms using Javascript
+Solving Algorithmic challenges using Javascript
